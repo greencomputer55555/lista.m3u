@@ -1,4 +1,4 @@
-la#EXTM3U
+#EXTM3U
 
 
 #EXTINF:-1 tvg-chno="1" ,Las estrellas
@@ -42,9 +42,6 @@ http://allinonestr.fans:8080/live/1292233946/52355701/327418.ts
 #EXTINF:-1 tvg-chno="12" ,Canal11
 http://allinonestr.fans:8080/live/1292233946/52355701/2735.ts
 
-
-#EXTINF:-1 tvg-chno="13" ,Canal 10 Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w367714732.m3u8
 
 
 #EXTINF:-1 tvg-chno="14" ,Adn40 
@@ -178,9 +175,6 @@ http://allinonestr.fans:8080/live/1292233946/52355701/267068.ts
 http://allinonestr.fans:8080/live/1292233946/52355701/271296.ts 
 
 
-#EXTINF:-1 tvg-chno="46" ,Discovery Turbo
-http://allinonestr.fans:8080/live/1292233946/52355701/511538.ts
-
 
 #EXTINF:-1 tvg-chno="47" ,Discovery home & Health 
 http://allinonestr.fans:8080/live/1292233946/52355701/2874.ts
@@ -291,15 +285,6 @@ http://allinonestr.fans:8080/live/1292233946/52355701/471032.ts
 http://allinonestr.fans:8080/live/1292233946/52355701/327396.ts
 
 
-#EXTINF:-1 tvg-chno="72" ,Directv sport no funciona
-http://allinonestr.fans:8080/live/1292233946/52355701/513275.ts 
-
-
-
-#EXTINF:-1 tvg-chno="73" ,Netflixhd no funciona
-http://allinonestr.fans:8080/live/1292233946/52355701/513274.ts 
-
-
 
 #EXTINF:-1 tvg-chno="74" ,De pelicula
 http://allinonestr.fans:8080/live/1292233946/52355701/231.ts
@@ -312,9 +297,6 @@ http://allinonestr.fans:8080/live/1292233946/52355701/2759.ts
 #EXTINF:-1 tvg-chno="76" ,Cine dinamita
 http://allinonestr.fans:8080/live/1292233946/52355701/107.ts
 
-
-#EXTINF:-1 tvg-chno="77" ,Claro Cinema
-http://allinonestr.fans:8080/live/1292233946/52355701/479651.ts
 
 
 
@@ -339,11 +321,7 @@ http://allinonestr.fans:8080/live/1292233946/52355701/271326.ts
 
 #EXTINF:-1 tvg-chno="82" ,TNT Series
 http://allinonestr.fans:8080/live/1292233946/52355701/2940.ts 
-
-
-
-#EXTINF:-1 tvg-chno="83" ,Tlc
-http://allinonestr.fans:8080/live/1292233946/52355701/511585.ts  
+ 
 
 
 #EXTINF:-1 tvg-chno="84" ,Syfy
@@ -368,7 +346,7 @@ http://allinonestr.fans:8080/live/1292233946/52355701/2924.ts
 http://allinonestr.fans:8080/live/1292233946/52355701/219.ts
 
 
-#EXTINF:-1 tvg-chno="89" ,Multicinema  --- no funciona
+#EXTINF:-1 tvg-chno="89" ,Multicinema
 http://allinonestr.fans:8080/live/1292233946/52355701/270018.ts 
 
 
@@ -411,10 +389,6 @@ http://allinonestr.fans:8080/live/1292233946/52355701/2959.ts
 #EXTINF:-1 tvg-chno="98" ,Hbo pop
 http://allinonestr.fans:8080/live/1292233946/52355701/3331.ts
 
-
-
-#EXTINF:-1 tvg-chno="99" ,Hbo Plus
-http://allinonestr.fans:8080/live/1292233946/52355701/511550.ts
 
 
 
@@ -487,9 +461,6 @@ http://allinonestr.fans:8080/live/1292233946/52355701/461997.ts
 
 
 
-
-
-
 #EXTINF:-1 tvg-chno="115" ,Antena 3 Espana 
 http://allinonestr.fans:8080/live/1292233946/52355701/118204.ts
 
@@ -506,8 +477,7 @@ http://allinonestr.fans:8080/live/1292233946/52355701/118271.ts
 http://allinonestr.fans:8080/live/1292233946/52355701/118277.ts
 
 
-#EXTINF:-1 tvg-chno="119" ,Zoom Colombia 
-http://allinonestr.fans:8080/live/1292233946/52355701/510678.ts
+
 
 
 #EXTINF:-1 tvg-chno="120" ,Rcn Mas Colombia 
@@ -526,19 +496,6 @@ http://allinonestr.fans:8080/live/1292233946/52355701/2945.ts
 
 
 
-#EXTINF:-1 tvg-chno="123" ,Teleceiba Honduras
-http://allinonestr.fans:8080/live/1292233946/52355701/184960.ts
-
-
-#EXTINF:-1 tvg-chno="124" ,Dtelevision Honduras
-http://allinonestr.fans:8080/live/1292233946/52355701/330330.ts
-
-
-#EXTINF:-1 tvg-chno="125" ,CronicaTv Argentina
-http://allinonestr.fans:8080/live/1292233946/52355701/118162.ts
-
-
-
 #EXTINF:-1 tvg-chno="126" ,Multivision Argentina
 http://allinonestr.fans:8080/live/1292233946/52355701/476179.ts
 
@@ -547,87 +504,8 @@ http://allinonestr.fans:8080/live/1292233946/52355701/476179.ts
 http://allinonestr.fans:8080/live/1292233946/52355701/476184.ts
 
 
-#EXTINF:-1 tvg-chno="128" ,13 Prime Chile
-http://allinonestr.fans:8080/live/1292233946/52355701/521324.ts
-
-
 #EXTINF:-1 tvg-chno="129" ,13 Teleseries Chile
 http://allinonestr.fans:8080/live/1292233946/52355701/521323.ts
-
-
-#EXTINF:-1 tvg-chno="130" ,Vimix Tv Chile
-http://allinonestr.fans:8080/live/1292233946/52355701/521322.ts
-
-
-#EXTINF:-1 tvg-chno="131" ,Vc Online Medios Chile
-http://allinonestr.fans:8080/live/1292233946/52355701/521321.ts
-
-
-#EXTINF:-1 tvg-chno="132" ,Zona Latina Chile
-http://allinonestr.fans:8080/live/1292233946/52355701/521319.ts
-
-
-#EXTINF:-1 tvg-chno="133" ,La Red Chile
-http://allinonestr.fans:8080/live/1292233946/52355701/329402.ts
-
-
-#EXTINF:-1 tvg-chno="134" ,Mega Chile
-http://allinonestr.fans:8080/live/1292233946/52355701/329409.ts
-
-
-
-
-
-#EXTINF:-1 tvg-chno="135" ,Cantinflas 24/7 
-http://allinonestr.fans:8080/live/1292233946/52355701/523362.ts
-
-
-#EXTINF:-1 tvg-chno="136" ,Futurama 24/7 
-http://allinonestr.fans:8080/live/1292233946/52355701/523356.ts
-
-
-#EXTINF:-1 tvg-chno="137" ,El pajaro loco y sus amigos 24/7 
-http://allinonestr.fans:8080/live/1292233946/52355701/523351.ts
-
-
-#EXTINF:-1 tvg-chno="138" ,Dora la explradora  24/7 
-http://allinonestr.fans:8080/live/1292233946/52355701/523347.ts
-
-
-#EXTINF:-1 tvg-chno="139" ,Los padrinos magicos  24/7 
-http://allinonestr.fans:8080/live/1292233946/52355701/523346.ts
-
-
-
-#EXTINF:-1 tvg-chno="140" ,Sextreme +18
-http://allinonestr.fans:8080/live/1292233946/52355701/514193.ts
-
-
-#EXTINF:-1 tvg-chno="141" ,Venus +18
-http://allinonestr.fans:8080/live/1292233946/52355701/514192.ts
-
-
-
-#EXTINF:-1 tvg-chno="142" ,Play Boy +18
-http://allinonestr.fans:8080/live/1292233946/52355701/514191.ts
-
-
-
-#EXTINF:-1 tvg-chno="143" ,Brazzerstv +18
-http://allinonestr.fans:8080/live/1292233946/52355701/514189.ts
-
-#EXTINF:-1 tvg-chno="144" ,Redlight +18
-http://allinonestr.fans:8080/live/1292233946/52355701/514183.ts
-
-#EXTINF:-1 tvg-chno="145" ,Penthehouse +18
-http://allinonestr.fans:8080/live/1292233946/52355701/514178.ts
-
-#EXTINF:-1 tvg-chno="146" ,Adult9 +18
-http://allinonestr.fans:8080/live/1292233946/52355701/514187.ts
-
-
-#EXTINF:-1 tvg-chno="147" ,Originals Porn +18
-http://allinonestr.fans:8080/live/1292233946/52355701/514175.ts
 
 
 #EXTINF:-1 tvg-chno="148" ,gourmet
@@ -638,21 +516,3 @@ http://allinonestr.fans:8080/live/1292233946/52355701/475441.ts
 
 #EXTINF:-1 tvg-chno="150" ,Azmundo
 http://allinonestr.fans:8080/live/1292233946/52355701/475443.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
