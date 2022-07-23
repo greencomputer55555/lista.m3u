@@ -96,7 +96,7 @@ http://allinonestr.fans:8080/live/1292233946/52355701/2954.ts
 
 
 #EXTINF:-1 tvg-chno="26" ,Babytv
-http://allinonestr.fans:8080/live/1292233946/52355701/2952.ts
+http://allinonestr.fans:8080/live/1292233946/52355701/468523.ts
 
 
 #EXTINF:-1 tvg-chno="27" ,Nickelodeon
@@ -116,21 +116,11 @@ http://allinonestr.fans:8080/live/1292233946/52355701/509921.ts
 
 
 #EXTINF:-1 tvg-chno="31" ,Disney Jr
-http://allinonestr.fans:8080/live/1292233946/52355701/271299.ts
+http://allinonestr.fans:8080/live/1292233946/52355701/509922.ts
 
 
 #EXTINF:-1 tvg-chno="32" ,Once ninos
 http://allinonestr.fans:8080/live/1292233946/52355701/270014.ts
-
-
-#EXTINF:-1 tvg-chno="33" ,ZooMoo
-http://allinonestr.fans:8080/live/1292233946/52355701/461156.ts
-
-
-#EXTINF:-1 tvg-chno="34" ,Dreamworld
-http://allinonestr.fans:8080/live/1292233946/52355701/515463.ts
-
-
 
 
 #EXTINF:-1 tvg-chno="35" ,Tlnovelas
@@ -180,11 +170,11 @@ http://allinonestr.fans:8080/live/1292233946/52355701/2874.ts
 
 
 #EXTINF:-1 tvg-chno="46" ,Discovery Science 
-http://allinonestr.fans:8080/live/1292233946/52355701/2876.ts
+http://allinonestr.fans:8080/live/1292233946/52355701/386171.ts
 
 
 #EXTINF:-1 tvg-chno="47" ,Discovery World 
-http://allinonestr.fans:8080/live/1292233946/52355701/2879.ts
+http://allinonestr.fans:8080/live/1292233946/52355701/2754.ts
 
 
 
@@ -199,7 +189,7 @@ http://allinonestr.fans:8080/live/1292233946/52355701/2910.ts
 
 
 #EXTINF:-1 tvg-chno="50" ,History 2
-http://allinonestr.fans:8080/live/1292233946/52355701/2961.ts
+http://allinonestr.fans:8080/live/1292233946/52355701/327412.ts
 
 
 
@@ -209,7 +199,7 @@ http://allinonestr.fans:8080/live/1292233946/52355701/2950.ts
 
 
 #EXTINF:-1 tvg-chno="52" ,Mtv
-http://allinonestr.fans:8080/live/1292233946/52355701/2915.ts
+http://allinonestr.fans:8080/live/1292233946/52355701/2807.ts
 
 
 #EXTINF:-1 tvg-chno="53" ,Mtv 00s
@@ -221,9 +211,6 @@ http://allinonestr.fans:8080/live/1292233946/52355701/447888.ts
 http://allinonestr.fans:8080/live/1292233946/52355701/3239.ts
 
 
-
-#EXTINF:-1 tvg-chno="55" ,Nick Music
-http://allinonestr.fans:8080/live/1292233946/52355701/378812.ts  
 
 
 #EXTINF:-1 tvg-chno="56" ,Teleritmo
@@ -258,7 +245,8 @@ http://allinonestr.fans:8080/live/1292233946/52355701/269064.ts
 
 
 #EXTINF:-1 tvg-chno="64" ,Espn4
-http://allinonestr.fans:8080/live/1292233946/52355701/335719.ts
+http://allinonestr.fans:8080/live/1292233946/52355701/480410.ts
+
 
 
 #EXTINF:-1 tvg-chno="65" ,Fox sport
@@ -274,7 +262,7 @@ http://allinonestr.fans:8080/live/1292233946/52355701/356112.ts
 
 
 #EXTINF:-1 tvg-chno="68" ,Tudn
-http://allinonestr.fans:8080/live/1292233946/52355701/429789.ts
+http://allinonestr.fans:8080/live/1292233946/52355701/270019.ts
 
 
 #EXTINF:-1 tvg-chno="69" ,Adrenalina Sports 
@@ -291,8 +279,8 @@ http://allinonestr.fans:8080/live/1292233946/52355701/327396.ts
 http://allinonestr.fans:8080/live/1292233946/52355701/231.ts
 
 
-#EXTINF:-1 tvg-chno="72" ,De pelicula plus
-http://allinonestr.fans:8080/live/1292233946/52355701/2759.ts
+#EXTINF:-1 tvg-chno="72" ,De pelicula clasico
+http://allinonestr.fans:8080/live/1292233946/52355701/3347.ts
 
 
 #EXTINF:-1 tvg-chno="73" ,Cine dinamita
