@@ -1,1 +1,481 @@
-dddd
+#EXTM3U
+
+
+#EXTINF:-1 tvg-chno="1" ,Las estrellas
+
+http://allinonestr.fans:8080/live/1292233946/52355701/511563.ts 
+
+#EXTINF:-1 tvg-chno="2" ,Las estrellas -1H
+
+http://allinonestr.fans:8080/live/1292233946/52355701/511425.ts
+
+#EXTINF:-1 tvg-chno="3" ,Las estrellas -2H
+http://allinonestr.fans:8080/live/1292233946/52355701/2767.ts
+
+
+#EXTINF:-1 tvg-chno="4" ,Canal 5
+
+http://allinonestr.fans:8080/live/1292233946/52355701/386191.ts
+
+#EXTINF:-1 tvg-chno="5" ,Azteca 7
+http://allinonestr.fans:8080/live/1292233946/52355701/231074.ts
+
+#EXTINF:-1 tvg-chno="6" ,Azteca Uno
+http://allinonestr.fans:8080/live/1292233946/52355701/378764.ts
+
+#EXTINF:-1 tvg-chno="7" ,Azteca Corazon
+http://allinonestr.fans:8080/live/1292233946/52355701/2726.ts
+
+#EXTINF:-1 tvg-chno="8" ,Univision
+http://allinonestr.fans:8080/live/1292233946/52355701/510799.ts
+
+#EXTINF:-1 tvg-chno="9" ,Multimedios
+http://allinonestr.fans:8080/live/1292233946/52355701/2809.ts
+
+#EXTINF:-1 tvg-chno="10" ,Forotv
+http://allinonestr.fans:8080/live/1292233946/52355701/2738.ts
+
+
+#EXTINF:-1 tvg-chno="11" ,Nueve
+http://allinonestr.fans:8080/live/1292233946/52355701/327418.ts
+
+#EXTINF:-1 tvg-chno="12" ,Canal11
+http://allinonestr.fans:8080/live/1292233946/52355701/2735.ts
+
+
+#EXTINF:-1 tvg-chno="13" ,Adn40 
+http://allinonestr.fans:8080/live/1292233946/52355701/2714.ts
+
+
+#EXTINF:-1 tvg-chno="14" ,Cnn 
+http://allinonestr.fans:8080/live/1292233946/52355701/267074.ts
+
+
+#EXTINF:-1 tvg-chno="15" ,Milenio 
+http://allinonestr.fans:8080/live/1292233946/52355701/2806.ts
+
+
+#EXTINF:-1 tvg-chno="16" ,Mega Noticias
+http://allinonestr.fans:8080/live/1292233946/52355701/461998.ts
+
+
+#EXTINF:-1 tvg-chno="17" ,Estrella News
+http://allinonestr.fans:8080/live/1292233946/52355701/510780.ts
+
+
+#EXTINF:-1 tvg-chno="18" ,Distrito Comedia
+http://allinonestr.fans:8080/live/1292233946/52355701/2758.ts
+
+
+#EXTINF:-1 tvg-chno="19" ,Comedy Central
+http://allinonestr.fans:8080/live/1292233946/52355701/327404.ts
+
+
+#EXTINF:-1 tvg-chno="20" ,EstrellaTv USA  
+http://allinonestr.fans:8080/live/1292233946/52355701/126.ts
+
+
+#EXTINF:-1 tvg-chno="21" ,Bitme
+http://allinonestr.fans:8080/live/1292233946/52355701/471033.ts
+
+
+#EXTINF:-1 tvg-chno="23" ,Discovery kids 
+http://allinonestr.fans:8080/live/1292233946/52355701/2875.ts
+
+
+#EXTINF:-1 tvg-chno="24" ,Cartoonito
+http://allinonestr.fans:8080/live/1292233946/52355701/2732.ts
+
+
+#EXTINF:-1 tvg-chno="25" ,Cartoon Network
+http://allinonestr.fans:8080/live/1292233946/52355701/2954.ts
+
+
+#EXTINF:-1 tvg-chno="26" ,Babytv
+http://allinonestr.fans:8080/live/1292233946/52355701/468523.ts
+
+
+#EXTINF:-1 tvg-chno="27" ,Nickelodeon
+http://allinonestr.fans:8080/live/1292233946/52355701/2921.ts
+
+
+#EXTINF:-1 tvg-chno="28" ,Nickjr
+http://allinonestr.fans:8080/live/1292233946/52355701/2922.ts
+
+
+#EXTINF:-1 tvg-chno="29" ,Tooncast
+http://allinonestr.fans:8080/live/1292233946/52355701/386176.ts
+
+
+#EXTINF:-1 tvg-chno="30" ,Disney channel
+http://allinonestr.fans:8080/live/1292233946/52355701/509921.ts
+
+
+#EXTINF:-1 tvg-chno="31" ,Disney Jr
+http://allinonestr.fans:8080/live/1292233946/52355701/509922.ts
+
+
+#EXTINF:-1 tvg-chno="32" ,Once ninos
+http://allinonestr.fans:8080/live/1292233946/52355701/270014.ts
+
+
+#EXTINF:-1 tvg-chno="33" ,Tlnovelas
+http://allinonestr.fans:8080/live/1292233946/52355701/471034.ts
+
+
+#EXTINF:-1 tvg-chno="34" ,Kanal D Dramas (Novelas Turcas)
+http://allinonestr.fans:8080/live/1292233946/52355701/457304.ts
+
+
+#EXTINF:-1 tvg-chno="35" ,Rcn Novelas Colombia 
+http://allinonestr.fans:8080/live/1292233946/52355701/2928.ts
+
+
+#EXTINF:-1 tvg-chno="36" ,Maria Vision
+http://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
+
+
+#EXTINF:-1 tvg-chno="37" ,Esne
+http://allinonestr.fans:8080/live/1292233946/52355701/352975.ts
+
+
+#EXTINF:-1 tvg-chno="38" ,Alma Vision
+http://allinonestr.fans:8080/live/1292233946/52355701/352884.ts
+
+
+#EXTINF:-1 tvg-chno="39" ,Enlace
+http://allinonestr.fans:8080/live/1292233946/52355701/509936.ts
+
+
+#EXTINF:-1 tvg-chno="40" ,National Geographic
+http://allinonestr.fans:8080/live/1292233946/52355701/267068.ts  
+
+
+#EXTINF:-1 tvg-chno="41" ,Discovery ID
+
+http://allinonestr.fans:8080/live/1292233946/52355701/2912.ts
+
+
+
+#EXTINF:-1 tvg-chno="42" ,Discovery home & Health 
+http://allinonestr.fans:8080/live/1292233946/52355701/2874.ts
+
+
+#EXTINF:-1 tvg-chno="43" ,Discovery Science 
+http://allinonestr.fans:8080/live/1292233946/52355701/386171.ts
+
+
+#EXTINF:-1 tvg-chno="44" ,Discovery World 
+http://allinonestr.fans:8080/live/1292233946/52355701/2754.ts
+
+
+
+#EXTINF:-1 tvg-chno="45" ,Discovery Channel
+http://allinonestr.fans:8080/live/1292233946/52355701/3226.ts
+
+
+
+#EXTINF:-1 tvg-chno="46" ,History
+http://allinonestr.fans:8080/live/1292233946/52355701/2800.ts
+
+
+#EXTINF:-1 tvg-chno="47" ,History 2
+http://allinonestr.fans:8080/live/1292233946/52355701/327412.ts
+
+
+
+#EXTINF:-1 tvg-chno="48" ,Animal Planet
+http://allinonestr.fans:8080/live/1292233946/52355701/2950.ts
+
+
+
+#EXTINF:-1 tvg-chno="49" ,Mtv
+http://allinonestr.fans:8080/live/1292233946/52355701/2807.ts
+
+
+#EXTINF:-1 tvg-chno="50" ,Mtv 00s
+http://allinonestr.fans:8080/live/1292233946/52355701/447888.ts 
+
+
+
+#EXTINF:-1 tvg-chno="51" ,Bandmax
+http://allinonestr.fans:8080/live/1292233946/52355701/3239.ts
+
+
+#EXTINF:-1 tvg-chno="52" ,Teleritmo
+http://allinonestr.fans:8080/live/1292233946/52355701/498255.ts
+
+
+#EXTINF:-1 tvg-chno="53" ,Exa
+http://allinonestr.fans:8080/live/1292233946/52355701/498253.ts
+
+
+
+#EXTINF:-1 tvg-chno="54" ,Telehit
+http://allinonestr.fans:8080/live/1292233946/52355701/2831.ts
+
+
+#EXTINF:-1 tvg-chno="55" ,Espn
+http://allinonestr.fans:8080/live/1292233946/52355701/429585.ts
+
+
+#EXTINF:-1 tvg-chno="56" ,Espn Plus
+http://allinonestr.fans:8080/live/1292233946/52355701/327398.ts
+
+
+#EXTINF:-1 tvg-chno="57" ,Espn2
+http://allinonestr.fans:8080/live/1292233946/52355701/429788.ts
+
+
+#EXTINF:-1 tvg-chno="58" ,Espn3
+http://allinonestr.fans:8080/live/1292233946/52355701/269064.ts
+
+
+#EXTINF:-1 tvg-chno="59" ,Espn4
+http://allinonestr.fans:8080/live/1292233946/52355701/480410.ts
+
+
+
+#EXTINF:-1 tvg-chno="60" ,Fox sport
+http://allinonestr.fans:8080/live/1292233946/52355701/3253.ts
+
+
+#EXTINF:-1 tvg-chno="61" ,Fox sport2
+http://allinonestr.fans:8080/live/1292233946/52355701/2898.ts
+
+
+#EXTINF:-1 tvg-chno="62" ,Fox sport3
+http://allinonestr.fans:8080/live/1292233946/52355701/356112.ts
+
+
+#EXTINF:-1 tvg-chno="63" ,Tudn
+http://allinonestr.fans:8080/live/1292233946/52355701/270019.ts
+
+
+#EXTINF:-1 tvg-chno="64" ,Adrenalina Sports 
+http://allinonestr.fans:8080/live/1292233946/52355701/471032.ts
+
+
+
+#EXTINF:-1 tvg-chno="65" ,Afizzionados
+http://allinonestr.fans:8080/live/1292233946/52355701/327396.ts
+
+
+
+#EXTINF:-1 tvg-chno="66" ,De pelicula
+http://allinonestr.fans:8080/live/1292233946/52355701/231.ts
+
+
+#EXTINF:-1 tvg-chno="67" ,De pelicula clasico
+http://allinonestr.fans:8080/live/1292233946/52355701/3347.ts
+
+
+#EXTINF:-1 tvg-chno="68" ,Cine dinamita
+http://allinonestr.fans:8080/live/1292233946/52355701/107.ts
+
+
+#EXTINF:-1 tvg-chno="69" ,Cine Canal Plus
+http://allinonestr.fans:8080/live/1292233946/52355701/2860.ts
+
+
+
+#EXTINF:-1 tvg-chno="70" ,Speace
+http://allinonestr.fans:8080/live/1292233946/52355701/271324.ts
+
+
+
+#EXTINF:-1 tvg-chno="71" ,Studio Universal
+http://allinonestr.fans:8080/live/1292233946/52355701/386173.ts 
+
+
+#EXTINF:-1 tvg-chno="72" ,TNT
+http://allinonestr.fans:8080/live/1292233946/52355701/271326.ts
+
+
+
+#EXTINF:-1 tvg-chno="73" ,TNT Series
+http://allinonestr.fans:8080/live/1292233946/52355701/2940.ts 
+ 
+
+
+#EXTINF:-1 tvg-chno="74" ,Syfy
+http://allinonestr.fans:8080/live/1292233946/52355701/2826.ts  
+
+
+#EXTINF:-1 tvg-chno="75" ,Start Channel
+http://allinonestr.fans:8080/live/1292233946/52355701/2958.ts 
+
+
+
+#EXTINF:-1 tvg-chno="76" ,Sony Channel
+http://allinonestr.fans:8080/live/1292233946/52355701/2930.ts
+
+
+#EXTINF:-1 tvg-chno="77" ,Paramount
+http://allinonestr.fans:8080/live/1292233946/52355701/2924.ts
+
+
+#EXTINF:-1 tvg-chno="78" ,Amc
+http://allinonestr.fans:8080/live/1292233946/52355701/219.ts
+
+
+#EXTINF:-1 tvg-chno="79" ,Multicinema
+http://allinonestr.fans:8080/live/1292233946/52355701/270018.ts 
+
+
+
+#EXTINF:-1 tvg-chno="80" ,LifeTime
+http://allinonestr.fans:8080/live/1292233946/52355701/2913.ts
+
+
+#EXTINF:-1 tvg-chno="81" ,Imagentv
+http://allinonestr.fans:8080/live/1292233946/52355701/418481.ts
+
+
+
+#EXTINF:-1 tvg-chno="82" ,Holatv
+http://allinonestr.fans:8080/live/1292233946/52355701/454847.ts 
+
+
+
+#EXTINF:-1 tvg-chno="83" ,Hbo
+http://allinonestr.fans:8080/live/1292233946/52355701/2906.ts
+
+
+#EXTINF:-1 tvg-chno="84" ,Hbo2
+http://allinonestr.fans:8080/live/1292233946/52355701/2962.ts
+
+
+
+#EXTINF:-1 tvg-chno="85" ,Hbo Xtreme
+http://allinonestr.fans:8080/live/1292233946/52355701/386164.ts
+
+
+#EXTINF:-1 tvg-chno="86" ,Hbo Family
+http://allinonestr.fans:8080/live/1292233946/52355701/386166.ts
+
+
+#EXTINF:-1 tvg-chno="87" ,Hbo Mundi
+http://allinonestr.fans:8080/live/1292233946/52355701/2959.ts
+
+
+#EXTINF:-1 tvg-chno="88" ,Hbo pop
+http://allinonestr.fans:8080/live/1292233946/52355701/3331.ts
+
+
+#EXTINF:-1 tvg-chno="89" ,Axn
+http://allinonestr.fans:8080/live/1292233946/52355701/2723.ts
+
+
+#EXTINF:-1 tvg-chno="90" ,EI
+http://allinonestr.fans:8080/live/1292233946/52355701/267087.ts
+
+
+
+#EXTINF:-1 tvg-chno="91" ,Fx
+http://allinonestr.fans:8080/live/1292233946/52355701/2901.ts
+
+
+#EXTINF:-1 tvg-chno="92" ,Glitz
+http://allinonestr.fans:8080/live/1292233946/52355701/2902.ts
+
+
+
+#EXTINF:-1 tvg-chno="93" ,Golden Premier
+http://allinonestr.fans:8080/live/1292233946/52355701/330621.ts
+
+
+#EXTINF:-1 tvg-chno="94" ,Golden premier2
+http://allinonestr.fans:8080/live/1292233946/52355701/515315.ts
+
+
+#EXTINF:-1 tvg-chno="95" ,Golden Plus
+http://allinonestr.fans:8080/live/1292233946/52355701/3164.ts
+
+
+
+#EXTINF:-1 tvg-chno="96" ,Golden Edge
+http://allinonestr.fans:8080/live/1292233946/52355701/3166.ts
+
+
+
+#EXTINF:-1 tvg-chno="97" ,Warner
+http://allinonestr.fans:8080/live/1292233946/52355701/2970.ts
+
+
+#EXTINF:-1 tvg-chno="98" ,True tv
+http://allinonestr.fans:8080/live/1292233946/52355701/386194.ts
+
+
+
+#EXTINF:-1 tvg-chno="99" ,Mas Chic
+http://allinonestr.fans:8080/live/1292233946/52355701/2805.ts
+
+
+
+#EXTINF:-1 tvg-chno="100" ,A&E
+http://allinonestr.fans:8080/live/1292233946/52355701/2724.ts
+
+
+
+#EXTINF:-1 tvg-chno="101" ,Isat
+http://allinonestr.fans:8080/live/1292233946/52355701/271320.ts
+
+
+
+#EXTINF:-1 tvg-chno="102" ,Tbs
+http://allinonestr.fans:8080/live/1292233946/52355701/378811.ts  
+
+
+#EXTINF:-1 tvg-chno="103" ,Hgtv
+http://allinonestr.fans:8080/live/1292233946/52355701/461997.ts
+
+
+
+#EXTINF:-1 tvg-chno="104" ,Antena 3 Espana 
+http://allinonestr.fans:8080/live/1292233946/52355701/118204.ts
+
+
+#EXTINF:-1 tvg-chno="105" ,Telecinco Espana 
+http://allinonestr.fans:8080/live/1292233946/52355701/118206.ts
+
+
+#EXTINF:-1 tvg-chno="106" ,Mega Espana 
+http://allinonestr.fans:8080/live/1292233946/52355701/118271.ts
+
+
+#EXTINF:-1 tvg-chno="107" ,Nova Espana 
+http://allinonestr.fans:8080/live/1292233946/52355701/118277.ts
+
+
+
+#EXTINF:-1 tvg-chno="108" ,Rcn Mas Colombia 
+http://allinonestr.fans:8080/live/1292233946/52355701/509976.ts
+
+
+#EXTINF:-1 tvg-chno="109" ,Caracol Colombia 
+http://allinonestr.fans:8080/live/1292233946/52355701/2953.ts
+
+
+
+#EXTINF:-1 tvg-chno="110" ,Tv Agro Colombia 
+http://allinonestr.fans:8080/live/1292233946/52355701/2945.ts
+
+
+
+#EXTINF:-1 tvg-chno="111" ,Multivision Argentina
+http://allinonestr.fans:8080/live/1292233946/52355701/476179.ts
+
+
+#EXTINF:-1 tvg-chno="112" ,Mundo de la musica Argentina
+http://allinonestr.fans:8080/live/1292233946/52355701/476184.ts
+
+
+#EXTINF:-1 tvg-chno="113" ,gourmet
+http://allinonestr.fans:8080/live/1292233946/52355701/431194.ts
+
+#EXTINF:-1 tvg-chno="114" ,Azcinema
+http://allinonestr.fans:8080/live/1292233946/52355701/475441.ts
+
+#EXTINF:-1 tvg-chno="115" ,Azmundo
+http://allinonestr.fans:8080/live/1292233946/52355701/475443.ts
