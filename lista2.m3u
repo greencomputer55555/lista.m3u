@@ -422,49 +422,11 @@ http://allinonestr.fans:8080/live/1292233946/52355701/378811.ts
 #EXTINF:-1 tvg-chno="100" ,Hgtv
 http://allinonestr.fans:8080/live/1292233946/52355701/461997.ts
 
-
-
-#EXTINF:-1 tvg-chno="101" ,Antena 3 Espana 
-http://allinonestr.fans:8080/live/1292233946/52355701/118204.ts
-
-
-
-#EXTINF:-1 tvg-chno="102" ,Mega Espana 
-http://allinonestr.fans:8080/live/1292233946/52355701/118271.ts
-
-
-#EXTINF:-1 tvg-chno="103" ,Nova Espana 
-http://allinonestr.fans:8080/live/1292233946/52355701/118277.ts
-
-
-
-#EXTINF:-1 tvg-chno="104" ,Rcn Mas Colombia 
-http://allinonestr.fans:8080/live/1292233946/52355701/509976.ts
-
-
-#EXTINF:-1 tvg-chno="105" ,Caracol Colombia 
-http://allinonestr.fans:8080/live/1292233946/52355701/2953.ts
-
-
-
-#EXTINF:-1 tvg-chno="106" ,Tv Agro Colombia 
-http://allinonestr.fans:8080/live/1292233946/52355701/2945.ts
-
-
-
-#EXTINF:-1 tvg-chno="107" ,Multivision Argentina
-http://allinonestr.fans:8080/live/1292233946/52355701/476179.ts
-
-
-#EXTINF:-1 tvg-chno="108" ,Mundo de la musica Argentina
-http://allinonestr.fans:8080/live/1292233946/52355701/476184.ts
-
-
-#EXTINF:-1 tvg-chno="109" ,gourmet
+#EXTINF:-1 tvg-chno="101" ,gourmet
 http://allinonestr.fans:8080/live/1292233946/52355701/431194.ts
 
-#EXTINF:-1 tvg-chno="110" ,Azcinema
+#EXTINF:-1 tvg-chno="102" ,Azcinema
 http://allinonestr.fans:8080/live/1292233946/52355701/475441.ts
 
-#EXTINF:-1 tvg-chno="111" ,Azmundo
+#EXTINF:-1 tvg-chno="103" ,Azmundo
 http://allinonestr.fans:8080/live/1292233946/52355701/475443.ts
